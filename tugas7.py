@@ -32,3 +32,4 @@ elif aktivitas == "kerja":
 
 else:
     print("Aktivitas tidak dikenali")
+    
